@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "desc": "Complete the NestJS project setup",
+    "done": true
+  },
+  {
+    "id": 2,
+    "desc": "Implement task repository layer",
+    "done": true
+  },
+  {
+    "id": 3,
+    "desc": "Create task service with business logic",
+    "done": true
+  },
+  {
+    "id": 4,
+    "desc": "Build task controller for API endpoints",
+    "done": false
+  },
+  {
+    "id": 5,
+    "desc": "Add input validation and error handling",
+    "done": false
+  },
+  {
+    "id": 6,
+    "desc": "Write unit tests for all layers",
+    "done": false
+  },
+  {
+    "id": 7,
+    "desc": "Create API documentation",
+    "done": false
+  },
+  {
+    "id": 8,
+    "desc": "Deploy to production environment",
+    "done": false
+  }
+] 
